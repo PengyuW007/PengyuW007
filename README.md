@@ -33,14 +33,6 @@ Building software that combines business workflows, daily-life applications, and
 | **Immigration Draw Predictor** | [Immigration_Draw_predictor](https://github.com/PengyuW007/Immigration_Draw_predictor) | Machine learning project that analyzes historical immigration draw data and forecasts future score trends using statistical and predictive models. |
 | **Exchange Rate Predictors** | [Exchange_Rate_Predictors](https://github.com/PengyuW007/Exchange_Rate_Predictors) | Data science project utilizing multiple machine learning models to forecast exchange rate movements between CAD and CNY currencies. |
 
-## Currently Learning
-
-- React
-- Next.js
-- TypeScript
-- Modern Full Stack Architecture
-- Cloud Deployment
-
 ## Connect With Me
 
 - [Portfolio](https://pengyuw007.github.io/)
