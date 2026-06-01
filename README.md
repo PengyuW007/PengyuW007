@@ -1,6 +1,6 @@
 # Hi there, I'm Pengyu Wang 👋
 
-## Full Stack Developer | Mobile Developer | Geek for Development
+Full Stack Developer | Mobile Developer | Geek for Development
 
 Building software that combines business workflows, daily-life applications, and data-driven decision making.
 
