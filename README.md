@@ -21,8 +21,3 @@ Building software that combines business workflows, daily-life applications, and
 <p align="center">
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PengyuW007&show_icons=true&hide_border=true" />
 </p>
-
-## Connect With Me
-
-- [Portfolio](https://pengyuw007.github.io/)
-- [LinkedIn Profile](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
