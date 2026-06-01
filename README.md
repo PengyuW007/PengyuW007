@@ -30,7 +30,8 @@ My recent projects focus on CRM systems, business workflow automation, mobile ap
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PengyuW007&show_icons=true)
+![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=PengyuW007&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PengyuW007&layout=compact)
 
 ## Projects
