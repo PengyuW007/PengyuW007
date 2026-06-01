@@ -19,8 +19,7 @@ Building software that combines business workflows, daily-life applications, and
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PengyuW007&show_icons=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PengyuW007&layout=compact&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PengyuW007&show_icons=true&hide_border=true" />
 </p>
 
 ## Projects
