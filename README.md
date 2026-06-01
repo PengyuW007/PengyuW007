@@ -22,15 +22,6 @@ Building software that combines business workflows, daily-life applications, and
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PengyuW007&show_icons=true&hide_border=true" />
 </p>
 
-## Featured Projects
-
-| Project | Repository | Description |
-|----------|------------|-------------|
-| **AutoTrack CRM (Android)** | [AutoTrack_Android](https://github.com/PengyuW007/AutoTrack_Android) | Customer Relationship Management (CRM) platform designed for automotive sales professionals, featuring lead tracking, intelligent follow-up scheduling, agenda management, and priority-based lead scoring. |
-| **AutoTrack CRM (Web)** | [AutoTrack_Web](https://github.com/PengyuW007/AutoTrack_Web) | Web-based version of AutoTrack currently being rebuilt with modern full-stack architecture using React, Next.js, TypeScript, and cloud-ready deployment practices. |
-| **Immigration Draw Predictor** | [Immigration_Draw_predictor](https://github.com/PengyuW007/Immigration_Draw_predictor) | Machine learning project that analyzes historical immigration draw data and forecasts future score trends using statistical and predictive models. |
-| **Exchange Rate Predictors** | [Exchange_Rate_Predictors](https://github.com/PengyuW007/Exchange_Rate_Predictors) | Data science project utilizing multiple machine learning models to forecast exchange rate movements between CAD and CNY currencies. |
-
 ## Connect With Me
 
 - [Portfolio](https://pengyuw007.github.io/)
