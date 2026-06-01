@@ -57,5 +57,5 @@ My recent projects focus on CRM systems, business workflow automation, mobile ap
 
 ## Connect With Me
 
-- Portfolio: [https://pengyuw007.github.io/pengyu.github.io/](https://pengyuw007.github.io/)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
+- [Portfolio](https://pengyuw007.github.io/)
+- [LinkedIn Profile](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
