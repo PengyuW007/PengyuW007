@@ -46,3 +46,16 @@ My recent projects focus on CRM systems, business workflow automation, mobile ap
 | **Immigration Draw Predictor** | [Immigration_Draw_predictor](https://github.com/PengyuW007/Immigration_Draw_predictor) | Machine learning project that analyzes historical immigration draw data and forecasts future score trends using statistical and predictive models. |
 | **Exchange Rate Predictors** | [Exchange_Rate_Predictors](https://github.com/PengyuW007/Exchange_Rate_Predictors) | Data science project utilizing multiple machine learning models to forecast exchange rate movements between CAD and CNY currencies. |
 | **Togo Platform** | [Togo](https://github.com/emily0906/Togo) | Full-stack web application developed as a collaborative project, focusing on modern web technologies, user interaction, and scalable architecture. |
+
+## Currently Learning
+
+- React
+- Next.js
+- TypeScript
+- Modern Full Stack Architecture
+- Cloud Deployment
+
+## Connect With Me
+
+- Portfolio: [https://pengyuw007.github.io/pengyu.github.io/](https://pengyuw007.github.io/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pengyu-wang-270a921b5/)
